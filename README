@@ -1,4 +1,5 @@
 Code produced for IBM Data Visualization Project for Havas International.
+http://www.nassima.com/?mtheme_portfolio=ibm-social-business
 
 Involves 3 parts,
 
@@ -6,6 +7,11 @@ Decoding address -> CSV
 Convert CSV - > JSON using Datamapper.rb
 Convert JSON to visualization using Dataviz.pde processing sketch
 
+Put all processing sketches in [dataviz] folder, and open dataviz.pde
+The processing version used was pre 2.0
+
+
 Using Tilesaver by Marius Watz to produce large printable files.
+
 
 
