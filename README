@@ -1,0 +1,11 @@
+Code produced for IBM Data Visualization Project for Havas International.
+
+Involves 3 parts,
+
+Decoding address -> CSV
+Convert CSV - > JSON using Datamapper.rb
+Convert JSON to visualization using Dataviz.pde processing sketch
+
+Using Tilesaver by Marius Watz to produce large printable files.
+
+
